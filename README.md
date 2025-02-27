@@ -1,5 +1,5 @@
 ## Hi there 👋
-#Voici un texte que tu peux utiliser dans ton README sur GitHub :  
+ 
 
 ---
 
@@ -20,13 +20,12 @@ I am a **Data Science & Digital Health Engineering student** passionate about **
 🔹 **Creating a small but robust messaging app**  
 
 ## 📫 Connect with Me  
-- GitHub: [YourGitHubUsername](https://github.com/YourGitHubUsername)  
+- GitHub: [Houssam-123-ship-it](https://github.com/Houssam-123-ship-it)  
 - LinkedIn:www.linkedin.com/in/houssam-kichou-a184a8271 
 - Email: houssamkichchou2005@gmail.com  
 
 ---
 
-Tu peux modifier les liens et ajouter plus de détails selon tes préférences. Qu'en penses-tu ? 😊
 
 <!--
 **Houssam-123-ship-it/Houssam-123-ship-it** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
