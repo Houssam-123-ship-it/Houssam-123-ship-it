@@ -17,7 +17,7 @@ I am a **Data Science & Digital Health Engineering student** . I love building i
 ## 📫 Connect with Me  
 - GitHub: [Houssam-123-ship-it](https://github.com/Houssam-123-ship-it)  
 - LinkedIn:www.linkedin.com/in/houssam-kichou-a184a8271 
-- Email: houssamkichchou2005@gmail.com  
+- Email: houssamkich2005@gmail.com  
 
 ---
 
