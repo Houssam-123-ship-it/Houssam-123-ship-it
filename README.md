@@ -6,18 +6,13 @@
 # 👋 Houssam Kichchou  
 
 ## 💡 About Me  
-I am a **Data Science & Digital Health Engineering student** passionate about **automation, AI, and trading bots**. I love building innovative solutions, whether it's a **messaging app, a chatbot, or a trading automation system**.  
+I am a **Data Science & Digital Health Engineering student** . I love building innovative solutions !  
 
 ## 🚀 Tech Stack  
 - **Backend:** FastAPI, Python, Flask  
 - **Frontend:** Tkinter, CustomTkinter, WordPress (Elementor)  
 - **Database:** MySQL, PostgreSQL  
-- **Tools:** TradingView API, Telegram Bot API, Ngrok, XAMPP, GNS3, PuTTY  
-
-## 🎯 What I'm Working On  
-🔹 **Automating trading signals for Gold Futures (GC) with TradingView & Telegram**  
-🔹 **Building a chatbot like ChatGPT using Python**  
-🔹 **Creating a small but robust messaging app**  
+ 
 
 ## 📫 Connect with Me  
 - GitHub: [Houssam-123-ship-it](https://github.com/Houssam-123-ship-it)  
