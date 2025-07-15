@@ -9,9 +9,39 @@
 I am a **Data Science & Digital Health Engineering student** . I love building innovative solutions !  
 
 ## 🚀 Tech Stack  
-- **Backend:** FastAPI, Python, Flask  
-- **Frontend:** Tkinter, CustomTkinter, WordPress (Elementor)  
-- **Database:** MySQL, PostgreSQL  
+Technical Skills :
+Programming & Development
+Languages: Python, Java, C/C++, PHP, JavaScript
+
+Backend Frameworks: FastAPI, Flask
+
+Frontend Tools: Tkinter, CustomTkinter, WordPress (Elementor)
+
+Web Development: Dynamic applications (Flask, FastAPI, PHP)
+
+Data Science & Machine Learning
+Frameworks/Libraries: TensorFlow, PyTorch, Scikit-learn
+
+Data Analysis: Pandas, NumPy, Matplotlib, Seaborn
+
+Machine Learning:
+
+Neural networks, deep learning
+
+Algorithms & Data Structures
+Algorithm design for data processing
+
+Data structures: Lists, hash tables, graphs, trees
+
+Databases
+Relational: MySQL, PostgreSQL SQL SERVER
+
+NoSQL: MongoDB , Redis , Cassandra , Neoj4
+
+Data Processing & Visualization
+Data preparation (cleaning, transformation)
+
+Exploration & visualization (Data Visualization)
  
 
 ## 📫 Connect with Me  
